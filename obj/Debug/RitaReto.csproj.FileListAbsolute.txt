@@ -1,0 +1,8 @@
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RitaReto\RitaReto\RitaReto\bin\Debug\RitaReto.exe.config
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RitaReto\RitaReto\RitaReto\bin\Debug\RitaReto.exe
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RitaReto\RitaReto\RitaReto\bin\Debug\RitaReto.pdb
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RitaReto\RitaReto\RitaReto\obj\Debug\RitaReto.csproj.AssemblyReference.cache
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RitaReto\RitaReto\RitaReto\obj\Debug\RitaReto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RitaReto\RitaReto\RitaReto\obj\Debug\RitaReto.csproj.CoreCompileInputs.cache
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RitaReto\RitaReto\RitaReto\obj\Debug\RitaReto.exe
+C:\Users\Rita Monreal\Desktop\UASLP\Cuarto semestre\Tecnología orientada a objetos\RitaReto\RitaReto\RitaReto\obj\Debug\RitaReto.pdb
